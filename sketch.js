@@ -98,7 +98,7 @@ function draw() {
 gameOver=createSprite(200,300);
 gameOver.addImage(gameOverImg);
 gameOver.scale = 0.5;
-boy.destroy
+
        
      
     }
